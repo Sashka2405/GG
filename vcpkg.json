@@ -1,0 +1,16 @@
+{
+  "name": "jonkler-tanks",
+  "version-string": "1.3.3.7",
+  "builtin-baseline": "b2c74683ecfd6a8e7d27ffb0df077f66a9339509",
+  "dependencies": [
+    "sdl2",
+    "sdl2-image",
+    {
+      "name": "sdl2-mixer",
+      "features": [
+        "mpg123"
+      ]
+    },
+    "sdl2-ttf"
+  ]
+}

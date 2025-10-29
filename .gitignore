@@ -1,0 +1,9 @@
+.vscode
+*.o
+.vs
+JonklerTanks
+build
+data
+.cache
+llvm*
+vcpkg_installed
